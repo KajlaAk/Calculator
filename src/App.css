@@ -1,0 +1,32 @@
+.calc{
+  width:300px;
+  margin: 100px auto;
+
+
+}
+#answer{
+  background-color: #F8F9F6;
+  height: 50px;
+  width: 244px;
+  border: 2px solid #867b7b;
+  border-radius: 5px;
+}
+.keypad{
+  background-color: black;
+    border: 2px solid #867b7b;
+    width: 247px;
+}
+.button{
+  font-family: fangsong;
+    background-color: black;
+    color: white;
+    width: 82.2px;
+    font-size: 24px;
+    height: 48px;
+    border:1px solid white;
+
+}
+button:hover{
+ background-color:#867b7b;
+ color:black;
+}
